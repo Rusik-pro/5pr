@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Иван Иванов",
+      "phone": "+7 (999) 123-45-67",
+      "email": "ivan@mail.com"
+    },
+    {
+      "id": 2,
+      "name": "Анна Смирнова",
+      "phone": "+7 (999) 765-43-21",
+      "email": "anna@mail.com"
+    }
+  ]
+}
